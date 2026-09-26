@@ -1,0 +1,12 @@
+{
+  "version": "0.1",
+  "released": "2026-09-25",
+  "download": "https://litter.catbox.moe/3i8zf9vmc10vt54g.zip",
+  "sha256": "079d4708871dafb6f3b9d5dd5f9c5256c0e34296d61128dfc42e81cf1b59d056",
+  "exe": "Doncraft.exe",
+  "notes": [
+    "added mobs",
+    "added chat",
+    "added stuff"
+  ]
+}
