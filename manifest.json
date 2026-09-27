@@ -1,11 +1,11 @@
 {
-  "version": "0.2",
-  "released": "2026-09-25",
-  "download": "https://litter.catbox.moe/titqvi207bc1bscp.zip",
-  "sha256": "9f09478a925128dcbe0aad270905d7893a5aee8fb3a5f9a0f57f483ee6aae3d1",
+  "version": "0.3",
+  "released": "2026-09-27",
+  "download": "https://raw.githubusercontent.com/donny0-dev/DonCraft/refs/heads/main/Build.rar",
+  "sha256": "a684b090c04dd39b5c64bfbc97f7d9d5ab7999e4bd9de7e050795f59a2f99995",
   "exe": "Doncraft.exe",
   "notes": [
-    "added chat images/gifs",
-    "bug fixes"
+    "fixed becoming black",
+    "fixed dropped items becoming icbms"
   ]
 }
