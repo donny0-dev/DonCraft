@@ -1,8 +1,8 @@
 {
   "version": "0.3",
   "released": "2026-09-27",
-  "download": "https://raw.githubusercontent.com/donny0-dev/DonCraft/refs/heads/main/Build.rar",
-  "sha256": "a684b090c04dd39b5c64bfbc97f7d9d5ab7999e4bd9de7e050795f59a2f99995",
+  "download": "https://raw.githubusercontent.com/donny0-dev/DonCraft/refs/heads/main/Build.zip",
+  "sha256": "c3bdc6ad728ea0ed85cab6516e32612fdf3b7d603de79ad2ecdfd2959cdbd009",
   "exe": "Doncraft.exe",
   "notes": [
     "fixed becoming black",
